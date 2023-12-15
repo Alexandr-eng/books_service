@@ -9,3 +9,6 @@ class BookRepository:
     @staticmethod
     def get_all_book():
         return Book.query.all()
+
+
+# '''''mmvckkfk
